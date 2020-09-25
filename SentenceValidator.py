@@ -1,8 +1,3 @@
-# Program: Ch 4 Ex 51
-# Author:  Myron Moss
-# Date:    09/25/2020
-# Description: Program to validate if a sentence begins with a capital letter and ends with punctuation.
-
 import string
 
 # take in sentence as variable
